@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\zhangzhi\\changeMapLevel\\Source\\cpsdemocpp\\cpsdemocpp.Build.cs",
+		"D:\\zhangzhi\\changeMapLevel\\Plugins\\CesiumForUnreal\\Source\\CesiumEditor\\CesiumEditor.Build.cs",
+		"D:\\zhangzhi\\changeMapLevel\\Plugins\\CesiumForUnreal\\Source\\CesiumRuntime\\CesiumRuntime.Build.cs",
+		"D:\\zhangzhi\\changeMapLevel\\Source\\cpsdemocpp.Target.cs",
+		"D:\\zhangzhi\\changeMapLevel\\Source\\cpsdemocppEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
